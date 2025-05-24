@@ -74,6 +74,7 @@ export default defineConfig({
           { text: '什么是栈？', link: '/stack/index.md' },
           { text: '227.基本计算器 II', link: '/stack/227.md' },
           { text: '844.比较含退格的字符串', link: '/stack/844.md' },
+          { text: '1441.用栈操作构建数组', link: '/stack/1441.md' },
         ]
       },
       {
