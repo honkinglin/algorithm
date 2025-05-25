@@ -75,6 +75,7 @@ export default defineConfig({
           { text: '227.基本计算器 II', link: '/stack/227.md' },
           { text: '844.比较含退格的字符串', link: '/stack/844.md' },
           { text: '1441.用栈操作构建数组', link: '/stack/1441.md' },
+          { text: '2390.从字符串中移除星号', link: '/stack/2390.md' },
         ]
       },
       {
