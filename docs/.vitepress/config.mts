@@ -76,6 +76,7 @@ export default defineConfig({
           { text: '844.比较含退格的字符串', link: '/stack/844.md' },
           { text: '1441.用栈操作构建数组', link: '/stack/1441.md' },
           { text: '2390.从字符串中移除星号', link: '/stack/2390.md' },
+          { text: '2696.删除子串后的字符串最小长度', link: '/stack/2696.md' },
         ]
       },
       {
