@@ -73,6 +73,7 @@ export default defineConfig({
         items: [
           { text: '什么是栈？', link: '/stack/index.md' },
           { text: '20.有效的括号', link: '/stack/20.md' },
+          { text: '150.逆波兰表达式求值', link: '/stack/150.md' },
           { text: '227.基本计算器 II', link: '/stack/227.md' },
           { text: '844.比较含退格的字符串', link: '/stack/844.md' },
           { text: '921.使括号有效的最少添加', link: '/stack/921.md' },
