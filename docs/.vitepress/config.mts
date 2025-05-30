@@ -87,6 +87,15 @@ export default defineConfig({
         ]
       },
       {
+        text: '队列',
+        collapsed: true,
+        items: [
+          { text: '什么是队列？', link: '/queue/index.md' },
+          { text: '933.最近的请求次数', link: '/queue/933.md' },
+          { text: '950.按递增顺序显示卡牌', link: '/queue/950.md' },
+        ]
+      },
+      {
         text: '链表',
         collapsed: true,
         items: [
