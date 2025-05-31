@@ -29,6 +29,15 @@ export default defineConfig({
         ]
       },
       {
+        text: '双指针',
+        collapsed: true,
+        items: [
+          { text: '什么是双指针？', link: '/two-pointer/index.md' },
+          { text: '344.反转字符串', link: '/two-pointer/344.md' },
+          { text: '1750.删除字符串两端相同字符后的最短长度', link: '/two-pointer/1750.md' },
+        ]
+      },
+      {
         text: '滑动窗口',
         collapsed: true,
         items: [
