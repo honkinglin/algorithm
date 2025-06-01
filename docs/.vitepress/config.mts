@@ -33,6 +33,7 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: '什么是双指针？', link: '/two-pointer/index.md' },
+          { text: '15.三数之和', link: '/two-pointer/15.md' },
           { text: '344.反转字符串', link: '/two-pointer/344.md' },
           { text: '1750.删除字符串两端相同字符后的最短长度', link: '/two-pointer/1750.md' },
         ]
