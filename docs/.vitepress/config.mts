@@ -69,6 +69,14 @@ export default defineConfig({
         ]
       },
       {
+        text: '差分',
+        collapsed: true,
+        items: [
+          { text: '什么是差分？', link: '/difference-array/index.md' },
+          { text: '2848.与车相交的点', link: '/difference-array/2848.md' },
+        ]
+      },
+      {
         text: '二分搜索',
         collapsed: true,
         items: [
