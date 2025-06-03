@@ -150,6 +150,14 @@ export default defineConfig({
           { text: '17.电话号码的字母组合', link: '/backtrack/17.md' },
         ]
       },
+      {
+        text: '动态规划',
+        collapsed: true,
+        items: [
+          { text: '什么是动态规划？', link: '/dynamic-programming/index.md' },
+          { text: '70.爬楼梯', link: '/dynamic-programming/70.md' },
+        ]
+      },
     ],
 
     socialLinks: [
