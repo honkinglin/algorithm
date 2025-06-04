@@ -4,8 +4,33 @@
 
 你可以把它理解成：**“有记忆能力的递归”** —— 每个结果都记录下来，避免重复劳动。
 
+## 1. 线性 DP（Linear DP）
 
-## 1. 0-1 背包（0-1 Knapsack）
+**特点：**
+
+* 状态沿着一维数组或序列线性推进
+* 当前状态只依赖前面若干固定状态（如前一项、前两项）
+* 常见于爬楼梯、路径最小和、子数组最大和等问题
+
+**举例：走楼梯，每一步只能走一格或两格**
+
+> 你要爬一个楼梯，每次可以走 1 步或 2 步。你会思考：我从第 n-1 层走上来的？还是从 n-2 层跳上来的？这就构成了一个线性的递推关系。
+
+**适用场景：**
+
+* 一维方向上推进（如数组、楼梯、房屋、路径）
+* 每个状态只与前面若干个状态有关
+
+**对应题目：**
+
+* [53 – 最大子数组和](https://leetcode.com/problems/maximum-subarray/)
+* [70 – 爬楼梯](https://leetcode.com/problems/climbing-stairs/)
+* [121 – 买卖股票的最佳时机](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+* [198 – 打家劫舍](https://leetcode.com/problems/house-robber/)
+* [213 – 打家劫舍 II](https://leetcode.com/problems/house-robber-ii/)
+* [746 – 使用最小花费爬楼梯](https://leetcode.com/problems/min-cost-climbing-stairs/)
+
+## 2. 0-1 背包（0-1 Knapsack）
 
 **特点：**
 
@@ -28,7 +53,7 @@
 * [1049 – 最后一块石头的重量 II](https://leetcode.com/problems/last-stone-weight-ii/)
 
 
-## 2. 完全背包（Complete Knapsack）
+## 3. 完全背包（Complete Knapsack）
 
 **特点：**
 
@@ -49,7 +74,7 @@
 * [518 – 零钱兑换 II](https://leetcode.com/problems/coin-change-ii/)
 
 
-## 3. 子序列类 DP（Subsequence DP）
+## 4. 子序列类 DP（Subsequence DP）
 
 **特点：**
 
@@ -73,7 +98,7 @@
 * [1143 – 最长公共子序列](https://leetcode.com/problems/longest-common-subsequence/)
 
 
-## 4. 区间 DP（Interval DP）
+## 5. 区间 DP（Interval DP）
 
 **特点：**
 
@@ -97,7 +122,7 @@
 * [1000 – 合并石头的最低成本](https://leetcode.com/problems/minimum-cost-to-merge-stones/)
 
 
-## 5. 状态压缩 DP（Bitmask DP）
+## 6. 状态压缩 DP（Bitmask DP）
 
 **特点：**
 
@@ -119,7 +144,7 @@
 * [847 – 访问所有节点的最短路径](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)
 
 
-## 6. 数位 DP（Digit DP）
+## 7. 数位 DP（Digit DP）
 
 **特点：**
 
@@ -141,7 +166,7 @@
 * [357 – 计算各个位数不同的数字个数](https://leetcode.com/problems/count-numbers-with-unique-digits/)
 
 
-## 7. 树形 DP（Tree DP）
+## 8. 树形 DP（Tree DP）
 
 **特点：**
 
@@ -163,7 +188,7 @@
 * [337 – 打家劫舍 III](https://leetcode.com/problems/house-robber-iii/)
 
 
-## 8. 状态机 DP（State Machine DP）
+## 9. 状态机 DP（State Machine DP）
 
 **特点：**
 
@@ -186,7 +211,7 @@
 * [714 – 含手续费的股票交易](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)
 
 
-## 9. 博弈型 DP（Game Theory DP）
+## 10. 博弈型 DP（Game Theory DP）
 
 **特点：**
 
