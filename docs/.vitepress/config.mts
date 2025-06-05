@@ -156,6 +156,7 @@ export default defineConfig({
         items: [
           { text: '什么是动态规划？', link: '/dynamic-programming/index.md' },
           { text: '70.爬楼梯', link: '/dynamic-programming/70.md' },
+          { text: '198.打家劫舍', link: '/dynamic-programming/198.md' },
           { text: '494.目标和', link: '/dynamic-programming/494.md' },
         ]
       },
