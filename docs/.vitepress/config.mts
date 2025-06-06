@@ -143,6 +143,13 @@ export default defineConfig({
         ]
       },
       {
+        text: '网格图',
+        collapsed: true,
+        items: [
+          { text: '什么是网格图？', link: '/grid-graph/index.md' },
+        ]
+      },
+      {
         text: '回溯',
         collapsed: true,
         items: [
