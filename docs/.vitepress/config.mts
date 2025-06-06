@@ -151,6 +151,7 @@ export default defineConfig({
           { text: '77.组合', link: '/backtrack/77.md' },
           { text: '78.子集', link: '/backtrack/78.md' },
           { text: '131.分割回文串', link: '/backtrack/131.md' },
+          { text: '216.组合总和 III', link: '/backtrack/216.md' },
         ]
       },
       {
