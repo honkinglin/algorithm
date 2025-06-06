@@ -156,6 +156,7 @@ export default defineConfig({
           { text: '什么是回溯？', link: '/backtrack/index.md' },
           { text: '17.电话号码的字母组合', link: '/backtrack/17.md' },
           { text: '22.括号生成', link: '/backtrack/22.md' },
+          { text: '46.全排列', link: '/backtrack/46.md' },
           { text: '77.组合', link: '/backtrack/77.md' },
           { text: '78.子集', link: '/backtrack/78.md' },
           { text: '131.分割回文串', link: '/backtrack/131.md' },
