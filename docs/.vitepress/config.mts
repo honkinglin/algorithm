@@ -136,6 +136,7 @@ export default defineConfig({
           { text: '101.对称二叉树', link: '/binary-tree/101.md' },
           { text: '102.二叉树的层序遍历', link: '/binary-tree/102.md' },
           { text: '104.二叉树的最大深度', link: '/binary-tree/104.md' },
+          { text: '110.平衡二叉树', link: '/binary-tree/110.md' },
           { text: '111.二叉树的最小深度', link: '/binary-tree/111.md' },
           { text: '112.路径总和', link: '/binary-tree/112.md' },
           { text: '113.路径总和 II', link: '/binary-tree/113.md' },
