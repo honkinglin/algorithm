@@ -137,6 +137,7 @@ export default defineConfig({
           { text: '111.二叉树的最小深度', link: '/binary-tree/111.md' },
           { text: '112.路径总和', link: '/binary-tree/112.md' },
           { text: '113.路径总和 II', link: '/binary-tree/113.md' },
+          { text: '129.求根节点到叶节点数字之和', link: '/binary-tree/129.md' },
           { text: '144.二叉树的前序遍历', link: '/binary-tree/144.md' },
           { text: '145.二叉树的后序遍历', link: '/binary-tree/145.md' },
           { text: '257.二叉树的所有路径', link: '/binary-tree/257.md' },
