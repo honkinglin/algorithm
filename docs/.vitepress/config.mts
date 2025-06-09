@@ -143,6 +143,7 @@ export default defineConfig({
           { text: '129.求根节点到叶节点数字之和', link: '/binary-tree/129.md' },
           { text: '144.二叉树的前序遍历', link: '/binary-tree/144.md' },
           { text: '145.二叉树的后序遍历', link: '/binary-tree/145.md' },
+          { text: '199.二叉树的右视图', link: '/binary-tree/199.md' },
           { text: '257.二叉树的所有路径', link: '/binary-tree/257.md' },
           { text: '872.叶子相似的树', link: '/binary-tree/872.md' },
         ]
