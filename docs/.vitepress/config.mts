@@ -132,6 +132,7 @@ export default defineConfig({
         items: [
           { text: '什么是二叉树？', link: '/binary-tree/index.md' },
           { text: '94.二叉树的中序遍历', link: '/binary-tree/94.md' },
+          { text: '98.验证二叉搜索树', link: '/binary-tree/98.md' },
           { text: '100.相同的树 ', link: '/binary-tree/100.md' },
           { text: '101.对称二叉树', link: '/binary-tree/101.md' },
           { text: '102.二叉树的层序遍历', link: '/binary-tree/102.md' },
