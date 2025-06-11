@@ -149,6 +149,7 @@ export default defineConfig({
           { text: '235.二叉搜索树的最近公共祖先', link: '/binary-tree/235.md' },
           { text: '236.二叉树的最近公共祖先', link: '/binary-tree/236.md' },
           { text: '257.二叉树的所有路径', link: '/binary-tree/257.md' },
+          { text: '404.左叶子之和', link: '/binary-tree/404.md' },
           { text: '872.叶子相似的树', link: '/binary-tree/872.md' },
         ]
       },
