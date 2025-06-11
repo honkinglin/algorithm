@@ -152,6 +152,7 @@ export default defineConfig({
           { text: '404.左叶子之和', link: '/binary-tree/404.md' },
           { text: '671.二叉树中第二小的节点', link: '/binary-tree/671.md' },
           { text: '872.叶子相似的树', link: '/binary-tree/872.md' },
+          { text: '1448.统计二叉树中好节点的数目', link: '/binary-tree/1448.md' },
         ]
       },
       {
