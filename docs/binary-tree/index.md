@@ -154,8 +154,8 @@
 
 **对应题目：**
 
-* [Leetcode 236 – LCA of Binary Tree](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/)
 * [Leetcode 235 – LCA of BST](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+* [Leetcode 236 – LCA of Binary Tree](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/)
 
 ## 9.二叉搜索树（BST）
 
@@ -173,9 +173,9 @@
 
 **对应题目：**
 
+* [Leetcode 450 – Delete Node in BST](https://leetcode.cn/problems/delete-node-in-a-binary-search-tree/)
 * [Leetcode 700 – Search in BST](https://leetcode.cn/problems/search-in-a-binary-search-tree/)
 * [Leetcode 701 – Insert into BST](https://leetcode.cn/problems/insert-into-a-binary-search-tree/)
-* [Leetcode 450 – Delete Node in BST](https://leetcode.cn/problems/delete-node-in-a-binary-search-tree/)
 
 ## 10.创建二叉树（Construct Tree）
 
@@ -212,8 +212,8 @@
 
 **对应题目：**
 
-* [Leetcode 701 – Insert into BST](https://leetcode.cn/problems/insert-into-a-binary-search-tree/)
 * [Leetcode 450 – Delete Node in BST](https://leetcode.cn/problems/delete-node-in-a-binary-search-tree/)
+* [Leetcode 701 – Insert into BST](https://leetcode.cn/problems/insert-into-a-binary-search-tree/)
 
 ## 12.树形 DP
 
@@ -231,8 +231,8 @@
 
 **对应题目：**
 
-* [Leetcode 337 – House Robber III](https://leetcode.cn/problems/house-robber-iii/)
 * [Leetcode 124 – Binary Tree Maximum Path Sum](https://leetcode.cn/problems/binary-tree-maximum-path-sum/)
+* [Leetcode 337 – House Robber III](https://leetcode.cn/problems/house-robber-iii/)
 
 ## 13.二叉树 BFS（层序遍历）
 
