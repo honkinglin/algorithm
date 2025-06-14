@@ -151,6 +151,7 @@ export default defineConfig({
           { text: '257.二叉树的所有路径', link: '/binary-tree/257.md' },
           { text: '404.左叶子之和', link: '/binary-tree/404.md' },
           { text: '671.二叉树中第二小的节点', link: '/binary-tree/671.md' },
+          { text: '814.二叉树剪枝', link: '/binary-tree/814.md' },
           { text: '872.叶子相似的树', link: '/binary-tree/872.md' },
           { text: '951.翻转等价二叉树', link: '/binary-tree/951.md' },
           { text: '965.单值二叉树', link: '/binary-tree/965.md' },
