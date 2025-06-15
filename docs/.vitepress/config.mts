@@ -152,6 +152,7 @@ export default defineConfig({
           { text: '404.左叶子之和', link: '/binary-tree/404.md' },
           { text: '538.把二叉搜索树转换为累加树', link: '/binary-tree/538.md' },
           { text: '671.二叉树中第二小的节点', link: '/binary-tree/671.md' },
+          { text: '700.二叉搜索树中的搜索', link: '/binary-tree/700.md' },
           { text: '814.二叉树剪枝', link: '/binary-tree/814.md' },
           { text: '865.具有所有最深节点的最小子树', link: '/binary-tree/865.md' },
           { text: '872.叶子相似的树', link: '/binary-tree/872.md' },
