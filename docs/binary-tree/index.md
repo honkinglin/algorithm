@@ -23,10 +23,10 @@
 
 **对应题目：**
 
-* [Leetcode 144 – Preorder Traversal](https://leetcode.cn/problems/binary-tree-preorder-traversal/)
 * [Leetcode 94 – Inorder Traversal](https://leetcode.cn/problems/binary-tree-inorder-traversal/)
-* [Leetcode 145 – Postorder Traversal](https://leetcode.cn/problems/binary-tree-postorder-traversal/)
 * [Leetcode 102 – Level Order Traversal](https://leetcode.cn/problems/binary-tree-level-order-traversal/)
+* [Leetcode 144 – Preorder Traversal](https://leetcode.cn/problems/binary-tree-preorder-traversal/)
+* [Leetcode 145 – Postorder Traversal](https://leetcode.cn/problems/binary-tree-postorder-traversal/)
 
 ## 2.自顶向下 DFS（Top-down DFS）
 
