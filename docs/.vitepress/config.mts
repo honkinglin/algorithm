@@ -150,6 +150,7 @@ export default defineConfig({
           { text: '236.二叉树的最近公共祖先', link: '/binary-tree/236.md' },
           { text: '257.二叉树的所有路径', link: '/binary-tree/257.md' },
           { text: '404.左叶子之和', link: '/binary-tree/404.md' },
+          { text: '530.二叉搜索树的最小绝对差', link: '/binary-tree/530.md' },
           { text: '538.把二叉搜索树转换为累加树', link: '/binary-tree/538.md' },
           { text: '671.二叉树中第二小的节点', link: '/binary-tree/671.md' },
           { text: '700.二叉搜索树中的搜索', link: '/binary-tree/700.md' },
