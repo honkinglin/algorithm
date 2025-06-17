@@ -85,6 +85,7 @@ export default defineConfig({
           { text: '34.在排序数组中查找元素的第一个和最后一个位置', link: '/binary-search/34.md' },
           { text: '35.搜索插入位置', link: '/binary-search/35.md' },
           { text: '704.二分查找', link: '/binary-search/704.md' },
+          { text: '744.寻找比目标字母大的最小字母', link: '/binary-search/744.md' },
           { text: '875.爱吃香蕉的珂珂', link: '/binary-search/875.md' },
         ]
       },
