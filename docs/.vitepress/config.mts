@@ -87,6 +87,7 @@ export default defineConfig({
           { text: '704.二分查找', link: '/binary-search/704.md' },
           { text: '744.寻找比目标字母大的最小字母', link: '/binary-search/744.md' },
           { text: '875.爱吃香蕉的珂珂', link: '/binary-search/875.md' },
+          { text: '2300.咒语和药水的成功对数', link: '/binary-search/2300.md' },
           { text: '2529.正整数和负整数的最大计数', link: '/binary-search/2529.md' },
         ]
       },
