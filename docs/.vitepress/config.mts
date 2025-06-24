@@ -20,6 +20,10 @@ export default defineConfig({
       pattern: 'https://github.com/honkinglin/algorithm/edit/main/docs/:path'
     },
 
+    search: {
+      provider: 'local'
+    },
+
     sidebar: [
       {
         text: '介绍',
