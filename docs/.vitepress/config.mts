@@ -213,6 +213,7 @@ export default defineConfig({
           { text: '70.爬楼梯', link: '/dynamic-programming/70.md' },
           { text: '198.打家劫舍', link: '/dynamic-programming/198.md' },
           { text: '494.目标和', link: '/dynamic-programming/494.md' },
+          { text: '746.使用最小花费爬楼梯', link: '/dynamic-programming/746.md' },
         ]
       },
     ],
