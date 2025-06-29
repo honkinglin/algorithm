@@ -97,6 +97,7 @@ export default defineConfig({
           { text: '1283.使结果不超过阈值的最小除数', link: '/binary-search/1283.md' },
           { text: '1385.两个数组间的距离值', link: '/binary-search/1385.md' },
           { text: '1760.袋子里最少数目的球', link: '/binary-search/1760.md' },
+          { text: '2187.完成旅途的最少时间', link: '/binary-search/2187.md' },
           { text: '2226.每个小孩最多能分到多少糖果', link: '/binary-search/2226.md' },
           { text: '2300.咒语和药水的成功对数', link: '/binary-search/2300.md' },
           { text: '2389.和有限的最长子序列', link: '/binary-search/2389.md' },
