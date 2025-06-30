@@ -94,6 +94,7 @@ export default defineConfig({
           { text: '704.二分查找', link: '/binary-search/704.md' },
           { text: '744.寻找比目标字母大的最小字母', link: '/binary-search/744.md' },
           { text: '875.爱吃香蕉的珂珂', link: '/binary-search/875.md' },
+          { text: '1011.在 D 天内送达包裹的能力', link: '/binary-search/1011.md' },
           { text: '1283.使结果不超过阈值的最小除数', link: '/binary-search/1283.md' },
           { text: '1385.两个数组间的距离值', link: '/binary-search/1385.md' },
           { text: '1760.袋子里最少数目的球', link: '/binary-search/1760.md' },
