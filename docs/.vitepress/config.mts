@@ -103,6 +103,7 @@ export default defineConfig({
           { text: '2300.咒语和药水的成功对数', link: '/binary-search/2300.md' },
           { text: '2389.和有限的最长子序列', link: '/binary-search/2389.md' },
           { text: '2529.正整数和负整数的最大计数', link: '/binary-search/2529.md' },
+          { text: '2594.修车的最少时间', link: '/binary-search/2594.md' },
         ]
       },
       {
