@@ -59,6 +59,7 @@ export default defineConfig({
           { text: '2090.半径为 k 的子数组平均值', link: '/sliding-window/2090.md' },
           { text: '2379.得到 K 个黑块的最少涂色次数', link: '/sliding-window/2379.md' },
           { text: '2730.找到最长的半重复子字符串', link: '/sliding-window/2730.md' },
+          { text: '2841.几乎唯一子数组的最大和', link: '/sliding-window/2841.md' },
           { text: '3090.每个字符最多出现两次的最长子字符串', link: '/sliding-window/3090.md' },
         ]
       },
