@@ -52,6 +52,7 @@ export default defineConfig({
           { text: '209.长度最小的子数组', link: '/sliding-window/209.md' },
           { text: '567.字符串的排列', link: '/sliding-window/567.md' },
           { text: '643.子数组最大平均数', link: '/sliding-window/643.md' },
+          { text: '713.乘积小于 K 的子数组', link: '/sliding-window/713.md' },
           { text: '1004.最大连续1的个数 III', link: '/sliding-window/1004.md' },
           { text: '1208.尽可能使字符串相等', link: '/sliding-window/1208.md' },
           { text: '1343.大小为 K 且平均值大于等于阈值的子数组数目', link: '/sliding-window/1343.md' },
