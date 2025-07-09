@@ -146,6 +146,7 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: '什么是链表？', link: '/linked-list/index.md' },
+          { text: '147.对链表进行插入排序', link: '/linked-list/147.md' },
           { text: '203.移除链表元素', link: '/linked-list/203.md' },
           { text: '206.反转链表', link: '/linked-list/206.md' },
           { text: '328.奇偶链表', link: '/linked-list/328.md' },
