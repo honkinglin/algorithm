@@ -76,6 +76,7 @@ export default defineConfig({
           { text: '303.区域和检索 - 数组不可变', link: '/prefix-sum/303.md' },
           { text: '560.和为 K 的子数组', link: '/prefix-sum/560.md' },
           { text: '930.和相同的二元子数组', link: '/prefix-sum/930.md' },
+          { text: '1524.和为奇数的子数组数目', link: '/prefix-sum/1524.md' },
           { text: '2559.统计范围内的元音字符串数', link: '/prefix-sum/2559.md' },
         ]
       },
