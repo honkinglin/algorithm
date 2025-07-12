@@ -37,6 +37,7 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: '什么是双指针？', link: '/two-pointer/index.md' },
+          { text: '11.盛最多水的容器', link: '/two-pointer/11.md' },
           { text: '15.三数之和', link: '/two-pointer/15.md' },
           { text: '16.最接近的三数之和', link: '/two-pointer/16.md' },
           { text: '344.反转字符串', link: '/two-pointer/344.md' },
