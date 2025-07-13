@@ -227,6 +227,7 @@ export default defineConfig({
           { text: '什么是动态规划？', link: '/dynamic-programming/index.md' },
           { text: '70.爬楼梯', link: '/dynamic-programming/70.md' },
           { text: '198.打家劫舍', link: '/dynamic-programming/198.md' },
+          { text: '322.零钱兑换', link: '/dynamic-programming/322.md' },
           { text: '377.组合总和 Ⅳ', link: '/dynamic-programming/377.md' },
           { text: '494.目标和', link: '/dynamic-programming/494.md' },
           { text: '746.使用最小花费爬楼梯', link: '/dynamic-programming/746.md' },
