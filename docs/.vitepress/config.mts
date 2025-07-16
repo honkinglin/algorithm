@@ -40,6 +40,7 @@ export default defineConfig({
           { text: '11.盛最多水的容器', link: '/two-pointer/11.md' },
           { text: '15.三数之和', link: '/two-pointer/15.md' },
           { text: '16.最接近的三数之和', link: '/two-pointer/16.md' },
+          { text: '18.四数之和', link: '/two-pointer/18.md' },
           { text: '167.两数之和 II - 输入有序数组', link: '/two-pointer/167.md' },
           { text: '344.反转字符串', link: '/two-pointer/344.md' },
           { text: '658.找到 K 个最接近的元素', link: '/two-pointer/658.md' },
