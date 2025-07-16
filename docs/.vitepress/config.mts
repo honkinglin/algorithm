@@ -44,6 +44,7 @@ export default defineConfig({
           { text: '125.验证回文串', link: '/two-pointer/125.md' },
           { text: '167.两数之和 II - 输入有序数组', link: '/two-pointer/167.md' },
           { text: '344.反转字符串', link: '/two-pointer/344.md' },
+          { text: '611.有效三角形的个数', link: '/two-pointer/611.md' },
           { text: '658.找到 K 个最接近的元素', link: '/two-pointer/658.md' },
           { text: '1471.数组中的 k 个最强值', link: '/two-pointer/1471.md' },
           { text: '1750.删除字符串两端相同字符后的最短长度', link: '/two-pointer/1750.md' },
