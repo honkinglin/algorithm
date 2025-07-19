@@ -65,6 +65,7 @@ export default defineConfig({
           { text: '1208.尽可能使字符串相等', link: '/sliding-window/1208.md' },
           { text: '1343.大小为 K 且平均值大于等于阈值的子数组数目', link: '/sliding-window/1343.md' },
           { text: '1358.包含所有三种字符的子字符串数目', link: '/sliding-window/1358.md' },
+          { text: '1423.可获得的最大点数', link: '/sliding-window/1423.md' },
           { text: '1456.定长子串中元音的最大数目', link: '/sliding-window/1456.md' },
           { text: '1493.删掉一个元素以后全为 1 的最长子数组', link: '/sliding-window/1493.md' },
           { text: '2090.半径为 k 的子数组平均值', link: '/sliding-window/2090.md' },
