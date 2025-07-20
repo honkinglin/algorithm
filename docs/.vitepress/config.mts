@@ -42,6 +42,7 @@ export default defineConfig({
           { text: '16.最接近的三数之和', link: '/two-pointer/16.md' },
           { text: '18.四数之和', link: '/two-pointer/18.md' },
           { text: '27.移除元素', link: '/two-pointer/27.md' },
+          { text: '42.接雨水', link: '/two-pointer/42.md' },
           { text: '125.验证回文串', link: '/two-pointer/125.md' },
           { text: '167.两数之和 II - 输入有序数组', link: '/two-pointer/167.md' },
           { text: '344.反转字符串', link: '/two-pointer/344.md' },
