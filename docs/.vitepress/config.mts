@@ -133,6 +133,7 @@ export default defineConfig({
           { text: '227.基本计算器 II', link: '/stack/227.md' },
           { text: '394.字符串解码', link: '/stack/394.md' },
           { text: '735.小行星碰撞', link: '/stack/735.md' },
+          { text: '739.每日温度', link: '/stack/739.md' },
           { text: '844.比较含退格的字符串', link: '/stack/844.md' },
           { text: '921.使括号有效的最少添加', link: '/stack/921.md' },
           { text: '1006.笨阶乘', link: '/stack/1006.md' },
