@@ -157,6 +157,7 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: '什么是链表？', link: '/linked-list/index.md' },
+          { text: '82.删除排序链表中的重复元素 II', link: '/linked-list/82.md' },
           { text: '83.删除排序链表中的重复元素', link: '/linked-list/83.md' },
           { text: '147.对链表进行插入排序', link: '/linked-list/147.md' },
           { text: '203.移除链表元素', link: '/linked-list/203.md' },
