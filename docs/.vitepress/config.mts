@@ -157,6 +157,7 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: '什么是链表？', link: '/linked-list/index.md' },
+          { text: '2.两数相加', link: '/linked-list/2.md' },
           { text: '82.删除排序链表中的重复元素 II', link: '/linked-list/82.md' },
           { text: '83.删除排序链表中的重复元素', link: '/linked-list/83.md' },
           { text: '92.反转链表 II', link: '/linked-list/92.md' },
