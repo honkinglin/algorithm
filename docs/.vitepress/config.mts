@@ -167,6 +167,7 @@ export default defineConfig({
           { text: '206.反转链表', link: '/linked-list/206.md' },
           { text: '234.回文链表', link: '/linked-list/234.md' },
           { text: '328.奇偶链表', link: '/linked-list/328.md' },
+          { text: '445.两数相加 II', link: '/linked-list/445.md' },
           { text: '1290.二进制链表转整数', link: '/linked-list/1290.md' },
           { text: '2058.找出临界点之间的最小和最大距离', link: '/linked-list/2058.md' },
         ]
