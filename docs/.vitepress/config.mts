@@ -219,6 +219,7 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: '什么是网格图？', link: '/grid-graph/index.md' },
+          { text: '200.岛屿数量', link: '/grid-graph/200.md' },
         ]
       },
       {
