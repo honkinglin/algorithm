@@ -162,6 +162,7 @@ export default defineConfig({
           { text: '83.删除排序链表中的重复元素', link: '/linked-list/83.md' },
           { text: '92.反转链表 II', link: '/linked-list/92.md' },
           { text: '143.重排链表', link: '/linked-list/143.md' },
+          { text: '146.LRU 缓存', link: '/linked-list/146.md' },
           { text: '147.对链表进行插入排序', link: '/linked-list/147.md' },
           { text: '203.移除链表元素', link: '/linked-list/203.md' },
           { text: '206.反转链表', link: '/linked-list/206.md' },
