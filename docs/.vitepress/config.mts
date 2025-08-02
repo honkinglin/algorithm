@@ -45,6 +45,7 @@ export default defineConfig({
           { text: '42.接雨水', link: '/two-pointer/42.md' },
           { text: '125.验证回文串', link: '/two-pointer/125.md' },
           { text: '167.两数之和 II - 输入有序数组', link: '/two-pointer/167.md' },
+          { text: '219.存在重复元素 II', link: '/two-pointer/219.md' },
           { text: '344.反转字符串', link: '/two-pointer/344.md' },
           { text: '611.有效三角形的个数', link: '/two-pointer/611.md' },
           { text: '658.找到 K 个最接近的元素', link: '/two-pointer/658.md' },
