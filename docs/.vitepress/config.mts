@@ -52,6 +52,7 @@ export default defineConfig({
           { text: '1128.等价多米诺骨牌对的数量', link: '/two-pointer/1128.md' },
           { text: '1471.数组中的 k 个最强值', link: '/two-pointer/1471.md' },
           { text: '1750.删除字符串两端相同字符后的最短长度', link: '/two-pointer/1750.md' },
+          { text: '2815.数组中的最大数对和', link: '/two-pointer/2815.md' },
         ]
       },
       {
