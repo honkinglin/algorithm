@@ -89,6 +89,7 @@ export default defineConfig({
           { text: '930.和相同的二元子数组', link: '/prefix-sum/930.md' },
           { text: '974.和可被 K 整除的子数组', link: '/prefix-sum/974.md' },
           { text: '1524.和为奇数的子数组数目', link: '/prefix-sum/1524.md' },
+          { text: '2055.蜡烛之间的盘子', link: '/prefix-sum/2055.md' },
           { text: '2559.统计范围内的元音字符串数', link: '/prefix-sum/2559.md' },
         ]
       },
