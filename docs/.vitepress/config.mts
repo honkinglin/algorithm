@@ -68,6 +68,7 @@ export default defineConfig({
           { text: '713.乘积小于 K 的子数组', link: '/sliding-window/713.md' },
           { text: '1004.最大连续1的个数 III', link: '/sliding-window/1004.md' },
           { text: '1208.尽可能使字符串相等', link: '/sliding-window/1208.md' },
+          { text: '1234.替换子串得到平衡字符串', link: '/sliding-window/1234.md' },
           { text: '1343.大小为 K 且平均值大于等于阈值的子数组数目', link: '/sliding-window/1343.md' },
           { text: '1358.包含所有三种字符的子字符串数目', link: '/sliding-window/1358.md' },
           { text: '1423.可获得的最大点数', link: '/sliding-window/1423.md' },
