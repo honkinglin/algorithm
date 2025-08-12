@@ -58,6 +58,13 @@ export default defineConfig({
         ]
       },
       {
+        text: '哈希表',
+        collapsed: true,
+        items: [
+          { text: '383. 赎金信', link: '/hash-table/383.md' },
+        ]
+      },
+      {
         text: '滑动窗口',
         collapsed: true,
         items: [
