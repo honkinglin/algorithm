@@ -48,6 +48,7 @@ export default defineConfig({
           { text: '202.快乐数', link: '/two-pointer/202.md' },
           { text: '219.存在重复元素 II', link: '/two-pointer/219.md' },
           { text: '344.反转字符串', link: '/two-pointer/344.md' },
+          { text: '392.判断子序列', link: '/two-pointer/392.md' },
           { text: '611.有效三角形的个数', link: '/two-pointer/611.md' },
           { text: '658.找到 K 个最接近的元素', link: '/two-pointer/658.md' },
           { text: '1010.总持续时间可被 60 整除的歌曲', link: '/two-pointer/1010.md' },
