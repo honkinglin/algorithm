@@ -124,6 +124,7 @@ export default defineConfig({
           { text: '35.搜索插入位置', link: '/binary-search/35.md' },
           { text: '162.寻找峰值', link: '/binary-search/162.md' },
           { text: '275.H 指数 II', link: '/binary-search/275.md' },
+          { text: '374.猜数字大小', link: '/binary-search/374.md' },
           { text: '658.找到 K 个最接近的元素', link: '/binary-search/658.md' },
           { text: '704.二分查找', link: '/binary-search/704.md' },
           { text: '744.寻找比目标字母大的最小字母', link: '/binary-search/744.md' },
