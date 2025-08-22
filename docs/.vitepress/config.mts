@@ -268,6 +268,7 @@ export default defineConfig({
         items: [
           { text: '什么是动态规划？', link: '/dynamic-programming/index.md' },
           { text: '70.爬楼梯', link: '/dynamic-programming/70.md' },
+          { text: '139.单词拆分', link: '/dynamic-programming/139.md' },
           { text: '198.打家劫舍', link: '/dynamic-programming/198.md' },
           { text: '322.零钱兑换', link: '/dynamic-programming/322.md' },
           { text: '377.组合总和 Ⅳ', link: '/dynamic-programming/377.md' },
