@@ -87,6 +87,7 @@ export default defineConfig({
           { text: '1456.定长子串中元音的最大数目', link: '/sliding-window/1456.md' },
           { text: '1493.删掉一个元素以后全为 1 的最长子数组', link: '/sliding-window/1493.md' },
           { text: '1658.将 x 减到 0 的最小操作数', link: '/sliding-window/1658.md' },
+          { text: '1679.K 和数对的最大数目', link: '/sliding-window/1679.md' },
           { text: '2090.半径为 k 的子数组平均值', link: '/sliding-window/2090.md' },
           { text: '2379.得到 K 个黑块的最少涂色次数', link: '/sliding-window/2379.md' },
           { text: '2730.找到最长的半重复子字符串', link: '/sliding-window/2730.md' },
