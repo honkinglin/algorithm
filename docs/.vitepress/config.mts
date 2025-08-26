@@ -234,6 +234,7 @@ export default defineConfig({
           { text: '965.单值二叉树', link: '/binary-tree/965.md' },
           { text: '988.从叶结点开始的最小字符串', link: '/binary-tree/988.md' },
           { text: '1110.删点成林', link: '/binary-tree/1110.md' },
+          { text: '1161.最大层内元素和', link: '/binary-tree/1161.md' },
           { text: '1315.祖父节点值为偶数的节点和', link: '/binary-tree/1315.md' },
           { text: '1325.删除给定值的叶子节点', link: '/binary-tree/1325.md' },
           { text: '1379.找出克隆二叉树中的相同节点', link: '/binary-tree/1379.md' },
