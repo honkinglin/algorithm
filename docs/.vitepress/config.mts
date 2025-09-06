@@ -64,6 +64,7 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: '49.字母异位词分组', link: '/hash-table/49.md' },
+          { text: '205.同构字符串', link: '/hash-table/205.md' },
           { text: '383.赎金信', link: '/hash-table/383.md' },
           { text: '2215.找出两数组的不同', link: '/hash-table/2215.md' },
         ]
