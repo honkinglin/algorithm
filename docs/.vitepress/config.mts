@@ -59,6 +59,13 @@ export default defineConfig({
         ]
       },
       {
+        text: '矩阵',
+        collapsed: true,
+        items: [
+          { text: '73.矩阵置零', link: '/matrix/73.md' },
+        ]
+      },
+      {
         text: '哈希表',
         collapsed: true,
         items: [
