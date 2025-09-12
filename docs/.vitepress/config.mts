@@ -59,13 +59,6 @@ export default defineConfig({
         ]
       },
       {
-        text: '矩阵',
-        collapsed: true,
-        items: [
-          { text: '73.矩阵置零', link: '/matrix/73.md' },
-        ]
-      },
-      {
         text: '哈希表',
         collapsed: true,
         items: [
@@ -254,15 +247,6 @@ export default defineConfig({
         ]
       },
       {
-        text: '网格图',
-        collapsed: true,
-        items: [
-          { text: '什么是网格图？', link: '/grid-graph/index.md' },
-          { text: '200.岛屿数量', link: '/grid-graph/200.md' },
-          { text: '695.岛屿的最大面积', link: '/grid-graph/695.md' },
-        ]
-      },
-      {
         text: '回溯',
         collapsed: true,
         items: [
@@ -289,6 +273,22 @@ export default defineConfig({
           { text: '377.组合总和 Ⅳ', link: '/dynamic-programming/377.md' },
           { text: '494.目标和', link: '/dynamic-programming/494.md' },
           { text: '746.使用最小花费爬楼梯', link: '/dynamic-programming/746.md' },
+        ]
+      },
+      {
+        text: '网格图',
+        collapsed: true,
+        items: [
+          { text: '什么是网格图？', link: '/grid-graph/index.md' },
+          { text: '200.岛屿数量', link: '/grid-graph/200.md' },
+          { text: '695.岛屿的最大面积', link: '/grid-graph/695.md' },
+        ]
+      },
+      {
+        text: '矩阵',
+        collapsed: true,
+        items: [
+          { text: '73.矩阵置零', link: '/matrix/73.md' },
         ]
       },
     ],
