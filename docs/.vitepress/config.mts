@@ -276,6 +276,13 @@ export default defineConfig({
         ]
       },
       {
+        text: '堆',
+        collapsed: true,
+        items: [
+          { text: '215.数组中的第K个最大元素', link: '/heap/215.md' },
+        ]
+      },
+      {
         text: '网格图',
         collapsed: true,
         items: [
