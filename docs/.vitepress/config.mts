@@ -276,6 +276,13 @@ export default defineConfig({
         ]
       },
       {
+        text: '字符串',
+        collapsed: true,
+        items: [
+          { text: '8.字符串转换整数 (atoi)', link: '/string/8.md' },
+        ]
+      },
+      {
         text: '堆',
         collapsed: true,
         items: [
