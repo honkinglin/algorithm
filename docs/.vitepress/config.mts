@@ -276,6 +276,13 @@ export default defineConfig({
         ]
       },
       {
+        text: '数组',
+        collapsed: true,
+        items: [
+          { text: '605. 种花问题', link: '/array/605.md' },
+        ]
+      },
+      {
         text: '字符串',
         collapsed: true,
         items: [
