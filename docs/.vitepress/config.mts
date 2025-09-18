@@ -102,6 +102,7 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: '什么是前缀和？', link: '/prefix-sum/index.md' },
+          { text: '238.除自身以外数组的乘积', link: '/prefix-sum/238.md' },
           { text: '303.区域和检索 - 数组不可变', link: '/prefix-sum/303.md' },
           { text: '560.和为 K 的子数组', link: '/prefix-sum/560.md' },
           { text: '930.和相同的二元子数组', link: '/prefix-sum/930.md' },
