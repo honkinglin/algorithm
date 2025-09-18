@@ -279,7 +279,8 @@ export default defineConfig({
         text: '数组',
         collapsed: true,
         items: [
-          { text: '605. 种花问题', link: '/array/605.md' },
+          { text: '334.递增的三元子序列', link: '/array/334.md' },
+          { text: '605.种花问题', link: '/array/605.md' },
         ]
       },
       {
