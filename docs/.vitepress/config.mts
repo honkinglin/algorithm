@@ -66,6 +66,7 @@ export default defineConfig({
           { text: '205.同构字符串', link: '/hash-table/205.md' },
           { text: '290.单词规律', link: '/hash-table/290.md' },
           { text: '383.赎金信', link: '/hash-table/383.md' },
+          { text: '1207. 独一无二的出现次数', link: '/hash-table/1207.md' },
           { text: '2215.找出两数组的不同', link: '/hash-table/2215.md' },
           { text: '2815.数组中的最大数对和', link: '/hash-table/2815.md' },
         ]
@@ -199,6 +200,7 @@ export default defineConfig({
           { text: '1019.链表中的下一个更大节点', link: '/linked-list/1019.md' },
           { text: '1290.二进制链表转整数', link: '/linked-list/1290.md' },
           { text: '2058.找出临界点之间的最小和最大距离', link: '/linked-list/2058.md' },
+          { text: '2095.删除链表的中间节点', link: '/linked-list/2095.md' },
         ]
       },
       {
