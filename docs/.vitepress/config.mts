@@ -268,6 +268,7 @@ export default defineConfig({
         items: [
           { text: '什么是动态规划？', link: '/dynamic-programming/index.md' },
           { text: '53.最大子数组和', link: '/dynamic-programming/53.md' },
+          { text: '62.不同路径', link: '/dynamic-programming/62.md' },
           { text: '70.爬楼梯', link: '/dynamic-programming/70.md' },
           { text: '139.单词拆分', link: '/dynamic-programming/139.md' },
           { text: '198.打家劫舍', link: '/dynamic-programming/198.md' },
