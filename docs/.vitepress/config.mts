@@ -302,6 +302,13 @@ export default defineConfig({
         ]
       },
       {
+        text: '前缀树',
+        collapsed: true,
+        items: [
+          { text: '208.实现 Trie (前缀树)', link: '/trie/208.md' },
+        ]
+      },
+      {
         text: '网格图',
         collapsed: true,
         items: [
