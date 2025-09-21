@@ -317,6 +317,7 @@ export default defineConfig({
         items: [
           { text: '什么是网格图？', link: '/grid-graph/index.md' },
           { text: '200.岛屿数量', link: '/grid-graph/200.md' },
+          { text: '207.课程表', link: '/grid-graph/207.md' },
           { text: '695.岛屿的最大面积', link: '/grid-graph/695.md' },
         ]
       },
