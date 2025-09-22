@@ -309,6 +309,7 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: '208.实现 Trie (前缀树)', link: '/trie/208.md' },
+          { text: '1268.搜索推荐系统', link: '/trie/1268.md' },
         ]
       },
       {
