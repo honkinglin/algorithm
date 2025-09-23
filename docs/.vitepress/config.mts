@@ -52,8 +52,6 @@ export default defineConfig({
           { text: '392.判断子序列', link: '/two-pointer/392.md' },
           { text: '611.有效三角形的个数', link: '/two-pointer/611.md' },
           { text: '658.找到 K 个最接近的元素', link: '/two-pointer/658.md' },
-          { text: '1010.总持续时间可被 60 整除的歌曲', link: '/two-pointer/1010.md' },
-          { text: '1128.等价多米诺骨牌对的数量', link: '/two-pointer/1128.md' },
           { text: '1471.数组中的 k 个最强值', link: '/two-pointer/1471.md' },
           { text: '1750.删除字符串两端相同字符后的最短长度', link: '/two-pointer/1750.md' },
         ]
@@ -66,6 +64,8 @@ export default defineConfig({
           { text: '205.同构字符串', link: '/hash-table/205.md' },
           { text: '290.单词规律', link: '/hash-table/290.md' },
           { text: '383.赎金信', link: '/hash-table/383.md' },
+          { text: '1010.总持续时间可被 60 整除的歌曲', link: '/hash-table/1010.md' },
+          { text: '1128.等价多米诺骨牌对的数量', link: '/hash-table/1128.md' },
           { text: '1207. 独一无二的出现次数', link: '/hash-table/1207.md' },
           { text: '2215.找出两数组的不同', link: '/hash-table/2215.md' },
           { text: '2815.数组中的最大数对和', link: '/hash-table/2815.md' },
