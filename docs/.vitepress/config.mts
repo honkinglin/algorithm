@@ -292,6 +292,7 @@ export default defineConfig({
         text: '字符串',
         collapsed: true,
         items: [
+          { text: '什么是字符串?', link: '/string/index.md' },
           { text: '8.字符串转换整数 (atoi)', link: '/string/8.md' },
           { text: '345.反转字符串中的元音字母', link: '/string/345.md' },
           { text: '443.压缩字符串', link: '/string/443.md' },
