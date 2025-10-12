@@ -225,6 +225,7 @@ export default defineConfig({
           { text: '145.二叉树的后序遍历', link: '/binary-tree/145.md' },
           { text: '199.二叉树的右视图', link: '/binary-tree/199.md' },
           { text: '222.完全二叉树的节点个数', link: '/binary-tree/222.md' },
+          { text: '226.翻转二叉树', link: '/binary-tree/226.md' },
           { text: '235.二叉搜索树的最近公共祖先', link: '/binary-tree/235.md' },
           { text: '236.二叉树的最近公共祖先', link: '/binary-tree/236.md' },
           { text: '257.二叉树的所有路径', link: '/binary-tree/257.md' },
