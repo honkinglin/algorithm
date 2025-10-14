@@ -304,6 +304,7 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: '215.数组中的第K个最大元素', link: '/heap/215.md' },
+          { text: '1046.最后一块石头的重量', link: '/heap/1046.md' },
         ]
       },
       {
