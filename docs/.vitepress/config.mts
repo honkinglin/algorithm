@@ -306,6 +306,7 @@ export default defineConfig({
           { text: '215.数组中的第K个最大元素', link: '/heap/215.md' },
           { text: '378.有序矩阵中第 K 小的元素', link: '/heap/378.md' },
           { text: '1046.最后一块石头的重量', link: '/heap/1046.md' },
+          { text: '2530.执行 K 次操作后的最大分数', link: '/heap/2530.md' },
         ]
       },
       {
